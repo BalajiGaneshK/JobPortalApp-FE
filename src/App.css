@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  position:relative;
+}
+.role-button-group{
+ 
+ position:absolute;
+ top:40vh;
+ left:36vw;
 }
 
 .App-logo {
